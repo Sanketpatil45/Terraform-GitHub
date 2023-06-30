@@ -1,1 +1,0 @@
-**/*.GiHubInfra.tf
